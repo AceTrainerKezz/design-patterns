@@ -1,3 +1,7 @@
+# ignore .vs and compiled folder
+.vs/
+x64/
+
 # Prerequisites
 *.d
 
