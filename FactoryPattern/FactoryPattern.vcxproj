@@ -136,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Logistics.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="RoadLogistics.cpp" />
     <ClCompile Include="SeaLogistics.cpp" />
     <ClCompile Include="Ship.cpp" />

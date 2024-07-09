@@ -7,7 +7,5 @@ public:
 
 	virtual Transport* CreateTransport() = 0;
 
-
-
 };
 

@@ -1,7 +1,8 @@
 #pragma once
 class Transport
 {
-	virtual void Deliver()
+public:
+	virtual void Deliver() = 0;
 
 };
 

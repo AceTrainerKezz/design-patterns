@@ -3,5 +3,5 @@
 
 void Logistics::PlanDelivery()
 {
-	Transport t = CreateTransport();
+	Transport* t = CreateTransport();
 }
